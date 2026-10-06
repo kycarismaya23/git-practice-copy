@@ -1,0 +1,1 @@
+# .gitignore .env .vscode/ .DS_Store Thumbs.db *.log backup/ 
